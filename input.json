@@ -1,0 +1,5 @@
+{
+    "seed" : ["https://medium.com/"],
+    "depthLimit" : 5,
+    "cocurentConnectionLimit" : 5
+}
